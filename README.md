@@ -4,7 +4,7 @@
 <p><em>Mobile App Developer at <a href="http://www.unb.br">FPT College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>iOS Developer at <a href="https://www.thoughtworks.com">Home :))</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Instagram: quhie_](https://img.shields.io/badge/instagram-quhie-orange)](https://www.instagram.com/quhie_/)
+[![Instagram: quhie_](https://img.shields.io/badge/instagram-quhie-orange)(https://www.instagram.com/quhie_/)
 [![Linkedin: quhie_](https://img.shields.io/badge/-guangxiao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hi%E1%BA%BFu-%C4%91%E1%BB%97-quang-383515315/)
 [![GitHub quhie_](https://img.shields.io/github/followers/guang-xiao03?label=follow&style=social)](https://github.com/quhie)
 

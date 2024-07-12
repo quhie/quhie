@@ -17,7 +17,7 @@ const hieu = {
   code: [Javascript, Typescript, HTML, CSS, Swift, Flutter, Java],
   tools: [React, Xcode, Node, WebStom, Android Studio, Visual Studio Code],
   architecture: 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I’m not lazy, I’m in energy-saving mode."
 }
 ```
 

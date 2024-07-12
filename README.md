@@ -4,9 +4,9 @@
 <p><em>Mobile App Developer at <a href="http://www.unb.br">FPT College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>iOS Developer at <a href="https://www.thoughtworks.com">Home :))</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: guang-xiao03](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: guang-xiao03](https://img.shields.io/badge/-guangxiao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hieu2003dev/)
-[![GitHub guang-xiao03](https://img.shields.io/github/followers/guang-xiao03?label=follow&style=social)](https://github.com/guang-xiao03)
+[![Instagram: quhie_](https://img.shields.io/badge/instagram-quhie-orange)](https://www.instagram.com/quhie_/)
+[![Linkedin: quhie_](https://img.shields.io/badge/-guangxiao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hi%E1%BA%BFu-%C4%91%E1%BB%97-quang-383515315/)
+[![GitHub quhie_](https://img.shields.io/github/followers/guang-xiao03?label=follow&style=social)](https://github.com/quhie)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
